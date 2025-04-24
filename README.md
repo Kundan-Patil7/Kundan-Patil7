@@ -69,3 +69,7 @@ I drink tea three times a day ☕, and I believe every great idea is brewed alon
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 Feel free to explore my repositories and connect with me! Let's create something amazing together. 😄✨
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&descAlign=50&descAlignY=93&section=footer" alt="Footer Banner" />
+
