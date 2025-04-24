@@ -1,4 +1,9 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kundan%20Patil&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlign=50&descAlignY=93" alt="Kundan Patil Banner" />
+
+
+
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=30&duration=3000&pause=500&width=435&lines=+Hello%2C+There!+%F0%9F%91%8B;This+is+Kundan+Patil+;Nice+to++e-meet+you+!)](https://git.io/typing-svg)
 
 
