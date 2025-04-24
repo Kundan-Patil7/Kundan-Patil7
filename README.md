@@ -1,4 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=3000&pause=500&width=435&lines=+Hello%2C+There!+%F0%9F%91%8B;This+is+Kundan+Patil+;Nice+to++e-meet+you+!)](https://git.io/typing-svg)
+###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=3000&pause=500&width=435&lines=+Hello%2C+There!+%F0%9F%91%8B;This+is+Kundan+Patil+;Nice+to++e-meet+you+!)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate **full-stack web developer** 🚀, currently diving deeper into **React** and **Tailwind CSS** while exploring the vast world of programming and software development. 😊
 
