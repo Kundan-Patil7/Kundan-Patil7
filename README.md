@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/kundan-patil88">
+  <a href="https://www.linkedin.com/in/kundan-patil88/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kpatil.pale@gmail.com">
@@ -56,7 +56,7 @@ const Kundan = {
 <div align="center">
   <h3>🤝 Let's connect and build something amazing!</h3>
   <p><i>"Great code is written with passion and precision."</i></p>
-  <a href="www.linkedin.com/in/kundan-patil88">
+  <a href="https://www.linkedin.com/in/kundan-patil88/">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
