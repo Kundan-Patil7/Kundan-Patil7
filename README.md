@@ -35,10 +35,16 @@ Welcome to my GitHub profile! I'm a passionate **full-stack web developer** 🚀
 ```javascript
 const Kundan = {
   passion: "Building intelligent, scalable web applications",
-  focus: ["MERN Stack", "AI Integration",],
-  currentlyLearning: ["PostgreSQL", ],
+  focus: ["MERN Stack"],
+  currentlyLearning: ["Docker"],
   lookingToCollaborate: true,
+  skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "MySQL", "Bootstrap", "TailwindCSS"],
+  certifications: ["Web Development Full Stack Certification",],
+  projects: [ "Green Cart - Grocery Delivery", "Urban Nest - AI-Powered Real Estate Platform"],
+  favoriteTechStack: "MERN (MongoDB, Express, React, Node.js)",
+  availableFor: ["Freelance Projects"],
 };
+
 ```
 ### 🛠️ Technologies & Tools:
 
